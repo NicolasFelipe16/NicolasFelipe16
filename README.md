@@ -1,16 +1,17 @@
-### Hi there 👋
+#### Olá! Meu nome é
 
-<!--
-**NicolasFelipe16/NicolasFelipe16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nícolas Felipe
 
-Here are some ideas to get you started:
+Tenho 16 anos, estou cursando o _Ensino Médio Integrado com Curso Técnico em Desenvolvimento de Sistemas_ e iniciei em junho de 2023 na _[Alura](https://alura.com.br)_, onde atuo como monitor dos Fóruns da _Alura Start_!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto bastante de programação em geral, mas iniciei nesse mundo pelo Python, onde aprendi a maioria dos conceitos que conheço de Lógica de Programação. Pessoalmente, venho cada vez mais me desenvolvendo e me interessando por HTML, CSS e JavaScript. Profissionalmente, lido bastante com Scratch no meu dia a dia.
+
+---
+
+Entre em contato:
+
+[Instagram](https://instagram.com/nicolas.felipef)
+[LinkedIn](https://www.linkedin.com/in/nicolas-felipe-ferreira-souza/)
+[E-mail](mailto:nicolas.felipef16@gmail.com)
+
+---
