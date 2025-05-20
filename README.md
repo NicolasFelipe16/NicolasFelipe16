@@ -1,37 +1,33 @@
-Olá! Meu nome é
+# Olá, sou Nícolas Felipe! 👋
 
-# Nícolas Felipe
+Atualmente, sou monitor dos fóruns da **Start By Alura**, onde auxilio milhares de estudantes a avançar no aprendizado de programação. Minha verdadeira paixão é a **programação**, e meu foco está em construir uma carreira sólida e crescer profissionalmente na área. 🚀
 
-Tenho 16 anos, nascido em Curitiba - PR e sou um curioso no meio da programação. Minha primeira experiência com os códigos foi com Python, mas dentre as linguagens que já explorei estão JavaScript, HTML, CSS, Java, PHP e Scratch!
+## Sobre mim
+Tenho interesse em aprender e melhorar minhas habilidades em programação e, ao longo do tempo, explorei algumas linguagens, como **HTML**, **CSS**, **JavaScript** e **Python**. Atualmente, estou concentrado nos meus estudos de **Java**, buscando expandir meu conhecimento para novas áreas do desenvolvimento.
 
-<pre>
-  LINGUAGENS QUE MAIS EXPLOREI:
+## 🧑‍💻 Linguagens
+- **HTML**: Experiência em criação de páginas web.
+- **CSS**: Experiência na criação de layouts responsivos.
+- **JavaScript**: Conhecimento básico para criação de interatividade em sites.
+- **Python**: Aplicação em automação simples.
+- **Java**: Explorando a programação orientada a objetos e desenvolvendo projetos básicos.
+
+Estou constantemente buscando aprimorar minhas habilidades, com ênfase no **Java**, onde estou focado em me aprofundar no desenvolvimento backend.
+
+## 🏆 Conquistas
+- **Campeão do concurso de programação Agrinho**: Fui vencedor na categoria **Programação Front-end** com um [projeto em HTML e CSS](https://projetoagrinho2024.vercel.app/) com o tema "**Do campo à cidade, colhendo oportunidades**".
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25px"/>
-</pre>
+## 🌐 Projetos
+- **[Landing Page pessoal](https://nicolas-felipe.vercel.app/)**: Desenvolvi essa Landing Page com foco no design.
+- **[Projeto campeão concurso Agrinho](https://projetoagrinho2024.vercel.app/)**: Projeto que foi 1º colocado estadual na categoria Programação Front-end do concurso Agrinho em 2024.
+- **[Guia de uso do fórum Start](https://guia-forum-start.vercel.app/)**: No cargo de monitor dos fóruns da Start By Alura, desenvolvi um guia de uso correto do fórum para os estudantes e docentes.
+- **[Site para a minja turma do ensino médio](https://controle-turma.vercel.app/)**: No 1º ano do ensino médio desenvolvi esse site para minha turma com uma página de avisos, grade de aulas e uma calculadora de notas.
 
-<pre>
-  LINGUAGENS QUE EXPLOREI POUCO:
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="25px"/>
-</pre>
+## 📱 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/nicolas-felipe-ferreira-souza/)
+- [E-mail](mailto:nicolas.felipef16@gmail.com)
+- [Instagram](https://www.instagram.com/nicolas.felipef)
+- [Site](https://nicolas-felipe.vercel.app/)
 
-   
-
-## Sobre mim:
-
-Curso o **Ensino Médio Integrado com Curso Técnico em Desenvolvimento de Sistemas**, tenho um curso de nível **técnico em Administração**, nível **intermediário de inglês** além de diversos **cursos de curta duração na área da tecnologia**. Iniciei minha carreira profissional em junho de 2023 na **[Alura](https://alura.com.br)**, onde atuo até o momento como monitor dos Fóruns da **Alura Start**!
-
-No momento, meu foco é explorar novas áreas do meio Tech, visando encontrar uma para consolidar uma carreira. A última área que iniciei meus estudos foi Banco de Dados, onde utilizei HTML, PHP e SQL.
-
-Profissionalmente, meu dia a dia gira bastante em torno da linguagem de blocos visuais [Scratch](https://scratch.mit.edu/).
-
----
-
-Entre em contato:
-
-[Instagram](https://instagram.com/nicolas.felipef)
-[LinkedIn](https://www.linkedin.com/in/nicolas-felipe-ferreira-souza/)
-[E-mail](mailto:nicolas.felipef16@gmail.com)
-
----
+## 💬 Vamos conversar!
+Estou sempre aberto a novas conexões e oportunidades! Se você deseja trocar ideias sobre programação, desenvolvimento ou até mesmo aprender juntos, entre em contato! 😄
