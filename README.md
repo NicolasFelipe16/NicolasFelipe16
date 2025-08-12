@@ -19,9 +19,9 @@ Estou constantemente buscando aprimorar minhas habilidades, com ênfase no **Jav
   
 ## 🌐 Projetos
 - **[Landing Page pessoal](https://nicolas-felipe.vercel.app/)**: Desenvolvi essa Landing Page com foco no design.
-- **[Projeto campeão concurso Agrinho](https://projetoagrinho2024.vercel.app/)**: Projeto que foi 1º colocado estadual na categoria Programação Front-end do concurso Agrinho em 2024.
+- **[Projeto campeão do concurso Agrinho](https://projetoagrinho2024.vercel.app/)**: Projeto que foi 1º colocado estadual na categoria Programação Front-end do concurso Agrinho em 2024.
 - **[Guia de uso do fórum Start](https://guia-forum-start.vercel.app/)**: No cargo de monitor dos fóruns da Start By Alura, desenvolvi um guia de uso correto do fórum para os estudantes e docentes.
-- **[Site para a minja turma do ensino médio](https://controle-turma.vercel.app/)**: No 1º ano do ensino médio desenvolvi esse site para minha turma com uma página de avisos, grade de aulas e uma calculadora de notas.
+- **[Site para a minha turma do ensino médio](https://controle-turma.vercel.app/)**: No 1º ano do ensino médio desenvolvi esse site para minha turma com uma página de avisos, grade de aulas e uma calculadora de notas.
 
 ## 📱 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/nicolas-felipe-ferreira-souza/)
