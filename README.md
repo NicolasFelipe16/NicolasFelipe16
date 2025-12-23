@@ -10,8 +10,6 @@ Tenho **18 anos** e descobri a programação por volta dos meus 15, por meio do 
 
 Desde que tive o primeiro contato com programação, meu gosto e curiosidade pela área só aumentaram e não parei mais de aprender! Depois do VBA, consolidei minha base de lógica com **`Python`**, que é a linguagem que escrevi minhas primeiras estruturas condicionais e laços de repetição. No Python, ouvi falar de Flask, que desencadeou uma curiosidade pelo desenvolvimeno **`Front-end`**, o que me fez explorar bastante **`HTML`**, **`CSS`** e, consequentemente, **`JavaScript`**. Estudei também **`banco de dados com SQL`** e mais recentemente me desenvolvi bastante em **`JAVA`**, especialmente **`Spring`**.
 
-Sigo me desenvolvendo constantemente, com ênfase em JAVA e SQL!
-
 [`Topo`](#olá-sou-nícolas-felipe)
 
 ---
@@ -22,7 +20,7 @@ Sigo me desenvolvendo constantemente, com ênfase em JAVA e SQL!
 |---|---|---|---|---|---|---|
 
 
-Além disso, sigo sempre buscando aprimorar minhas habilidades e, esse momento, sigo com ênfase no **Java** e em **SQL**! ☕🐬
+Além disso, sigo sempre buscando aprimorar minhas habilidades e, nesse momento, sigo com ênfase no **Java** e em **SQL**! ☕🐬
 
 [`Topo`](#olá-sou-nícolas-felipe)
 
